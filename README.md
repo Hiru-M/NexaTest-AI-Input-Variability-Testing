@@ -38,7 +38,6 @@ cd ai-prompt-variation-analyzer
 
 2. Create Virtual Environment
 python -m venv venv
-source venv/bin/activate   # Linux/macOS
 venv\Scripts\activate      # Windows
 
 3. Install Dependencies
